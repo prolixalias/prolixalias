@@ -1,4 +1,4 @@
-### prolixalias' stats
+### stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prolixalias&theme=dark)](https://git.io/streak-stats)
 
