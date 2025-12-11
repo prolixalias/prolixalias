@@ -11,7 +11,7 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: prolixalias/metrics@latest
         with:
           user: prolixalias
           filename: profile/metrics.svg
