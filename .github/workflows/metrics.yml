@@ -11,7 +11,7 @@ jobs:
       contents: write
       pull-requests: write
     steps:
-      - uses: prolixalias/metrics@@{fork}
+      - uses: prolixalias/metrics@prolixalias/metrics
         with:
           user: prolixalias
           token: ${{ secrets.METRICS_TOKEN }}
