@@ -14,6 +14,7 @@ jobs:
       - uses: prolixalias/metrics@latest
         with:
           user: prolixalias
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: profile/metrics.svg
           output_action: pull-request-merge
           plugin_languages: yes
