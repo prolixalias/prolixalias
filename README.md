@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://raw.githubusercontent.com/prolixalias/.github/main/profile/metrics.svg" alt="Metrics" width="400">
+<img align="right" src="https://raw.githubusercontent.com/prolixalias/.github/main/profile/metrics.svg" alt="metrics" width="400">
