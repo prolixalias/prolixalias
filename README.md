@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><&nbsp><br>
+
 <img align="right" src="https://raw.githubusercontent.com/prolixalias/.github/main/profile/metrics.svg" alt="metrics" width="400">
